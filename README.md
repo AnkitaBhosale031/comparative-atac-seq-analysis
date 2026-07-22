@@ -66,19 +66,39 @@ Promoter Analysis & Visualization
 
 ## Software and Tools
 
-* Ubuntu Linux
-* Cell Ranger ATAC
-* FastQC
-* BWA
-* SAMtools
-* BEDTools
-* MACS2
-* HOMER
-* R
-* DiffBind
-* DESeq2
-* Python
-* Jupyter Notebook
+| Software | Purpose |
+|----------|---------|
+| Ubuntu Linux | Operating system |
+| Cell Ranger ATAC | Reference preparation |
+| FastQC | Quality control |
+| BWA | Read alignment |
+| SAMtools | BAM processing |
+| BEDTools | Genomic interval operations |
+| MACS2 | Peak calling |
+| HOMER | Peak annotation and motif analysis |
+| R | Statistical analysis |
+| DiffBind | Differential accessibility analysis |
+| DESeq2 | Differential analysis |
+| Python | Functional enrichment analysis |
+| Jupyter Notebook | Interactive analysis environment |
+
+### Software Versions
+
+| Software | Version |
+|----------|---------|
+| Ubuntu Linux | 25.04 (Plucky Puffin) |
+| SRA Toolkit | 3.2.1 |
+| FastQC | 0.12.1 |
+| BWA-MEM | 0.7.18-r1243 |
+| SAMtools | 1.21 |
+| BEDTools | 2.31.1 |
+| MACS2 | 2.2.9.1 |
+| HOMER | 4.x |
+| R | 4.5.3 |
+| DiffBind | 3.20.0 |
+| DESeq2 | 1.50.2 |
+| g:Profiler | Web Platform |
+| IGV | Latest Stable Release |
 
 ---
 
@@ -195,12 +215,27 @@ The raw sequencing data used in this project are available from the NCBI Sequenc
 
 ---
 
+## Citation
+
+If you use this workflow or build upon this project, please cite:
+
+**Ankita Bhosale.** *Comparative ATAC-seq Analysis of Alzheimer's Disease and Medulloblastoma Microglia*. GitHub Repository.
+
+---
+
+## Author
+
 ## Author
 
 **Ankita Bhosale**
 
-B.Sc. (Hons.) Bioinformatics
+B.Sc. (Hons.) Bioinformatics  
+Department of Bioinformatics  
+Interested in Epigenomics, Computational Biology, Epigenomics, and ATAC-seq Data Analysis.
 
+📧 **Email:** ankitabhosale031@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/ankita-bhosale-92382a315/
 ---
 
 ## License

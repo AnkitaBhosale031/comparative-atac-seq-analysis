@@ -237,6 +237,7 @@ Interested in Epigenomics, Computational Biology, Epigenomics, and ATAC-seq Data
 
 💼 **LinkedIn:** https://www.linkedin.com/in/ankita-bhosale-92382a315/
 ---
+This repository was developed as part of my undergraduate Bioinformatics research project and demonstrates an end-to-end ATAC-seq analysis workflow using open-source bioinformatics tools.
 
 ## License
 

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "Comparative ATAC-seq Analysis of Alzheimer's Disease and Medulloblastoma Microglia"
+message: "If you use this repository, please cite it as follows."
+type: software
+
+authors:
+  - family-names: "Bhosale"
+    given-names: "Ankita"
+    email: "ankitabhosale031@gmail.com"
+
+abstract: >
+  A comparative ATAC-seq analysis workflow for identifying shared and differential
+  chromatin accessibility patterns between Alzheimer's disease and Medulloblastoma
+  microglia using BWA, SAMtools, MACS2, BEDTools, HOMER, DiffBind, and DESeq2.
+
+license: MIT
+
+repository-code: "https://github.com/AnkitaBhosale031/comparative-atac-seq-analysis"
+
+keywords:
+  - ATAC-seq
+  - Bioinformatics
+  - Epigenomics
+  - Chromatin Accessibility
+  - Alzheimer's Disease
+  - Medulloblastoma
+  - DiffBind
+  - HOMER

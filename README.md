@@ -225,8 +225,6 @@ If you use this workflow or build upon this project, please cite:
 
 ## Author
 
-## Author
-
 **Ankita Bhosale**
 
 B.Sc. (Hons.) Bioinformatics  
@@ -234,6 +232,8 @@ Department of Bioinformatics
 Interested in Epigenomics, Computational Biology, Epigenomics, and ATAC-seq Data Analysis.
 
 📧 **Email:** ankitabhosale031@gmail.com
+
+🐙 **GitHub:** https://github.com/AnkitaBhosale031
 
 💼 **LinkedIn:** https://www.linkedin.com/in/ankita-bhosale-92382a315/
 ---

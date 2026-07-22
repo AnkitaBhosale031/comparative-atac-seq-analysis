@@ -87,19 +87,12 @@ Promoter Analysis & Visualization
 ```text
 comparative-atac-seq-analysis/
 │
-├── chromatin_analysis.ipynb      # Complete analysis notebook
-├── README.md                     # Project documentation
-├── figures/                      # Result figures and plots
-├── scripts/                      # Optional shell/R/Python scripts
-├── results/                      # Processed output files
-├── motifs/                       # HOMER motif analysis results
-├── annotation/                   # Peak annotation results
-├── diffbind/                     # Differential binding results
-├── environment.yml               # Conda environment (optional)
-├── requirements.txt              # Python packages (optional)
-└── LICENSE
+├── comparative_atac_seq_analysis.ipynb      # ATAC-seq preprocessing, peak calling, shared chromatin region analysis, annotation and motif analysis
+├── functional_enrichment_analysis.ipynb     # Differential analysis, GO, KEGG, Reactome enrichment, PCA and Volcano plot
+├── README.md
+├── figures/
+├── LICENSE
 ```
-
 ---
 
 ## Analysis Pipeline

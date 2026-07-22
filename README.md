@@ -149,13 +149,35 @@ This notebook contains the downstream biological analysis, including:
 
 ## Key Results
 
-* Identification of differential chromatin accessibility between AD and MB.
-* Detection of shared chromatin accessibility regions.
-* Genomic annotation of differential peaks.
-* Transcription factor motif enrichment analysis.
-* Promoter distribution analysis.
-* Publication-quality summary figures.
+### Volcano Plot
 
+Differential accessibility analysis highlighting significantly altered chromatin regions.
+
+![Volcano Plot](figures/Volcano_Plot.png)
+
+---
+
+### Gene Ontology (Biological Process)
+
+Top enriched biological processes identified from differential genes.
+
+![GO Biological Process](figures/GO_BP_BarPlot.png)
+
+---
+
+### KEGG Pathway Enrichment
+
+Significantly enriched KEGG pathways associated with differential genes.
+
+![KEGG Pathway Enrichment](figures/KEGG_BarPlot.png)
+
+---
+
+### Reactome Pathway Enrichment
+
+Top enriched Reactome pathways associated with differential genes.
+
+![Reactome Pathway Enrichment](figures/Reactome_Barplot.png)
 ---
 
 ## Data Availability

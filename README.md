@@ -95,6 +95,35 @@ comparative-atac-seq-analysis/
 ```
 ---
 
+## Repository Contents
+
+### 📓 comparative_atac_seq_analysis.ipynb
+
+This notebook contains the complete ATAC-seq analysis workflow, including:
+
+- Downloading sequencing data
+- Quality control (FastQC)
+- Read alignment (BWA)
+- SAM to BAM conversion
+- Sorting and indexing BAM files
+- PCR duplicate removal
+- Peak calling using MACS2
+- Shared chromatin region identification
+- Peak annotation using HOMER
+- Motif enrichment analysis
+
+### 📓 functional_enrichment_analysis.ipynb
+
+This notebook contains the downstream biological analysis, including:
+
+- Differential accessibility analysis using DiffBind and DESeq2
+- Gene Ontology (GO) enrichment analysis
+- KEGG pathway enrichment
+- Reactome pathway enrichment
+- Volcano plot visualization
+- PCA visualization
+- Biological interpretation of differential genes
+
 ## Analysis Pipeline
 
 1. Download Cell Ranger ATAC.
